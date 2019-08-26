@@ -1,45 +1,50 @@
-# Machine Learning Guild: Apprentice Bootcamp MLG-04 US
+# Machine Learning Guild: Apprentice Bootcamp MLG-05-US
 
 ## Course Repository
 
 Welcome to the Machine Learning Guild's Apprentice Bootcamp Training
-for our fourth cohort of ML Guild Apprentices aka MLG-04!
+for our fifth cohort of ML Guild Apprentices aka MLG-05!
 
 **Instructors:** Bryson Bonham, Rebecca Crouch, Austin Lasseter, Aleks Ontman, Riebeeck van Niekerk
 
 
-Monday
+Monday: Kickoff & Foundations
 
-* Gitlab Setup
-* Getting Data 101
-* Pandas & Visualization
-* EDA Practice
+* Introductions & GitLab(You should have set this up already)
+* Exploratory Data Analysis, Pandas & Visualization Crash Course
+* Independent Hands-on EDA Exercise
+* Dimensionality Reduction Techniques
+* Introduction to Feature Engineering
 * Machine Learning 101
+* Independent Feature Engineering Exercise
 
-Tuesday
+Tuesday: Regression
 * Regression by Hand
 * OLS Regression w/ Libraries
 * Ridge & Lasso Regression
-* Regression Hackathon
+* Applied Regression Techniques
+* Independent Regression Exercise
+* Interactive Regression Workshop - Real World Example
 
-Wednesday
-* Classification
+Wednesday: Clustering, Classification, Support Vector Machines & Decision Trees
+* Introduction to Clustering Techniques
+* Means Clustering
+* Other Clustering Methods
+* Independent Clustering Exercise
+* Introduction to Classification Techniques
 * Logistic Regression
 * Naive Bayes
-* NLP
-* Decision Trees & KNN
-* Stock Market Activity
+* Decision Trees, Random Forrest, KNN, SVM
 
-Thursday
-* KMeans Clustering
-* Cluster Diagnostics
-* Clustering Diagnostics Cont.
-* Other Clustering Methods
-* Topic Modeling
-* Kmeans Color Clustering
+Thursday: Time Series, Neural Networks, Deep Learning & NLP
+* Time Series Analysis & Forecasting 
+* Independent Time Series Analysis & Forecasting Exercise
+* Introduction to Neural Networks & Deep Learning
+* Natural Language Processing: Accelerated Practicum
 
-Friday
-* Plotly Dash
+Friday: Ensemble Techniques & Custom Dashboard Development
+* Overview of Ensemble Techniques
+* Plotly Dash Workshop
 * Capstone Pitches
 
 ### Installation and Setup
