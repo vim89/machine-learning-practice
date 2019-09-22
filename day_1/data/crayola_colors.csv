@@ -1,0 +1,150 @@
+hex,name,red,green,blue
+#9f8170,Beaver,159,129,112
+#ffff99,Canary,255,255,153
+#b4674d,Brown,180,103,77
+#e6a8d7,Orchid,230,168,215
+#95918c,Gray,149,145,140
+#9c2542,Big Dip O' Ruby,156,37,66
+#7442c8,Purple Heart,116,66,200
+#fe4eda,Purple Pizzazz,254,78,218
+#fb7efd,Shocking Pink,251,126,253
+#de5d83,Blush,222,93,131
+#ff5349,Red Orange,255,83,73
+#ffae42,Yellow Orange,255,174,66
+#c5e384,Yellow Green,197,227,132
+#c0448f,Red Violet,192,68,143
+#cda4de,Wisteria,205,164,222
+#71bc78,Fern,113,188,120
+#cdc5c2,Silver,205,197,194
+#926eae,Violet (Purple),146,110,174
+#fdbcb4,Melon,253,188,180
+#ffff66,Unmellow Yellow,255,255,102
+#78dbe2,Aquamarine,120,219,226
+#fae7b5,Banana Mania,250,231,181
+#8e4585,Plum,142,69,133
+#8d4e85,Razzmic Berry,141,78,133
+#ffcf48,Sunglow,255,207,72
+#efcdb8,Desert Sand,239,205,184
+#979aaa,Manatee,151,154,170
+#f78fa7,Pink Sherbert,247,143,167
+#714b23,Raw Umber,113,75,35
+#fc74fd,Pink Flamingo,252,116,253
+#fddb6d,Dandelion,253,219,109
+#76ff7a,Screamin' Green,118,255,122
+#e3256b,Razzmatazz,227,37,107
+#fefe22,Laser Lemon,254,254,34
+#b0b7c6,Cadet Blue,176,183,198
+#fd5e53,Sunset Orange,253,94,83
+#d68a59,Raw Sienna,214,138,89
+#ff9baa,Salmon,255,155,170
+#ffbd88,Macaroni and Cheese,255,189,136
+#7851a9,Royal Purple,120,81,169
+#ff48d0,Razzle Dazzle Rose,255,72,208
+#cd4a4c,Mahogany,205,74,76
+#1dacd6,Cerulean,29,172,214
+#1ca9c9,Pacific Blue,28,169,201
+#ffaacc,Carnation Pink,255,170,204
+#0a7e8c,Metallic Seaweed,10,126,140
+#8f509d,Vivid Violet,143,80,157
+#80daeb,Sky Blue,128,218,235
+#fce883,Yellow,252,232,131
+#ceff1d,Electric Lime,206,255,29
+#cd9575,Antique Brass,205,149,117
+#deaa88,Tumbleweed,222,170,136
+#a5694f,Sepia,165,105,79
+#fc2847,Scarlet,252,40,71
+#fdd9b5,Apricot,253,217,181
+#87a96b,Asparagus,135,169,107
+#d98695,Shimmering Blush,217,134,149
+#2e5894,B'dazzled Blue,46,88,148
+#17806d,Tropical Rain Forest,23,128,109
+#fd7c6e,Bittersweet,253,124,110
+#1cd3a2,Caribbean Green,28,211,162
+#ace5ee,Blizzard Blue,172,229,238
+#ca3767,Jazzberry Jam,202,55,103
+#c364c5,Fuchsia,195,100,197
+#aaf0d1,Magic Mint,170,240,209
+#4a646c,Deep Space Sparkle,74,100,108
+#000000,Black,0,0,0
+#cb4154,Brick Red,203,65,84
+#ff7538,Orange,255,117,56
+#fc89ac,Tickle Me Pink,252,137,172
+#85754e,Gold Fusion,133,117,78
+#45cea2,Shamrock,69,206,162
+#ff8243,Mango Tango,255,130,67
+#ef98aa,Mauvelous,239,152,170
+#6699cc,Blue Gray,102,153,204
+#efdecd,Almond,239,222,205
+#8a795d,Shadow,138,121,93
+#ffcfab,Peach,255,207,171
+#fddde6,Piggy Pink,253,221,230
+#f75394,Violet Red,247,83,148
+#e7c697,Gold,231,198,151
+#fff44f,Lemon Yellow,255,244,79
+#fcb4d5,Lavender,252,180,213
+#dbd7d2,Timberwolf,219,215,210
+#c5d0e6,Periwinkle,197,208,230
+#a2a2d0,Blue Bell,162,162,208
+#6dae81,Forest Green,109,174,129
+#1164b4,Green Blue,17,100,180
+#0d98ba,Blue Green,13,152,186
+#1974d2,Navy Blue,25,116,210
+#158078,Pine Green,21,128,120
+#757575,Sonic Silver,117,117,117
+#c46210,Alloy Orange,196,98,16
+#ffa343,Neon Carrot,255,163,67
+#ebc7df,Thistle,235,199,223
+#ee204d,Red,238,32,77
+#7366bd,Blue Violet,115,102,189
+#5d76cb,Indigo,93,118,203
+#58427c,Cyber Grape,88,66,124
+#b2ec5d,Inchworm,178,236,93
+#fc6c85,Wild Watermelon,252,108,133
+#1fcecb,Robin's Egg Blue,31,206,203
+#6e5160,Eggplant,110,81,96
+#2b6cc4,Denim,43,108,196
+#bc5d58,Chestnut,188,93,88
+#77dde7,Turquoise Blue,119,221,231
+#18a7b5,Teal Blue,24,167,181
+#1a4876,Midnight Blue,26,72,118
+#cc6666,Fuzzy Wuzzy,204,102,102
+#ffbcd9,Cotton Candy,255,188,217
+#30ba8f,Mountain Meadow,48,186,143
+#a57164,Blast Off Bronze,165,113,100
+#8fd400,Sheen Green,143,212,0
+#1cac78,Green,28,172,120
+#414a4c,Outer Space,65,74,76
+#ff2b2b,Orange Red,255,43,43
+#ff7f49,Burnt Orange,255,127,73
+#ff6e4a,Outrageous Orange,255,110,74
+#9c7c38,Metallic Sunburst,156,124,56
+#ff1dce,Hot Magenta,255,29,206
+#f0e891,Green Yellow,240,232,145
+#ffffff,White,255,255,255
+#3bb08f,Jungle Green,59,176,143
+#faa76c,Tan,250,167,108
+#a2add0,Wild Blue Yonder,162,173,208
+#c54b8c,Mulberry,197,75,140
+#ea7e5d,Burnt Sienna,234,126,93
+#c8385a,Maroon,200,56,90
+#edd19c,Maize,237,209,156
+#bab86c,Olive Green,186,184,108
+#ffa474,Atomic Tangerine,255,164,116
+#dd9475,Copper,221,148,117
+#9d81ba,Purple Mountain's Majesty,157,129,186
+#0081ab,Steel Blue,0,129,171
+#dd4492,Cerise,221,68,146
+#ffa089,Vivid Tangerine,255,160,137
+#fcd975,Goldenrod,252,217,117
+#ff496c,Radical Red,255,73,108
+#1f75fe,Blue,31,117,254
+#319177,Illuminating Emerald,49,145,119
+#bf4f51,Bittersweet Shimmer,191,79,81
+#f664af,Magenta,246,100,175
+#eceabe,Spring Green,236,234,190
+#ff43a4,Wild Strawberry,255,67,164
+#f8d568,Orange Yellow,248,213,104
+#324ab2,Violet Blue,50,74,178
+#9aceeb,Cornflower,154,206,235
+#9fe2bf,Sea Green,159,226,191
+#a8e4a0,Granny Smith Apple,168,228,160
