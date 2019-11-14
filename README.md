@@ -5,7 +5,9 @@
 Welcome to the Machine Learning Guild's Apprentice Bootcamp Training
 for our fifth cohort of ML Guild Apprentices aka MLG-05!
 
-**Instructors:** Bryson Bonham, Rebecca Crouch, Austin Lasseter, Aleks Ontman, Riebeeck van Niekerk
+**Course Developers:** US/USI ML Guild Learning Team
+
+**Instructors:** Vaibhav Srivastav, Vivek Tripathi, Denver Dias, Franco Mendes, Abhishek Shetty, Abhishek Pandey, Revannth Vedala, Sagar Potala
 
 
 Monday: Kickoff & Foundations
